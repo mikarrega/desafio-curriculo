@@ -1,0 +1,44 @@
+body {
+    color: #333333;
+    background-color: rgb(241, 241, 241);
+    font-family: Helvetica;
+}
+
+ #mika {
+    width: 150px;
+    height: 150px;
+    float: left;
+    border-radius: 100px;
+    box-shadow: 3px 3px 8px gray;
+    margin: 10px;
+}
+
+#cabeçalho {
+    float: left;
+    margin-left: 20px;
+}
+#corpo {
+    margin-top: 20px;
+}
+
+#risco {
+    margin-top: 180px;
+
+}
+
+#logoifes {
+    float: left;
+    margin: 0px;
+    padding: 0px;
+}
+
+#logoestacio {
+    float: left;
+    margin: 10px;
+}
+
+
+#logomind {
+    float: left;
+    margin: 10px;
+}
